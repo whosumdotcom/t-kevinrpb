@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T13:31:23Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:kevinrpb"
+    },
+    {
+      "Claim": "mdon:@kevinrpb@mastodon.social"
+    },
+    {
+      "Claim": "t:kevinrpb"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "65a448b918b9da0e6e4056e6",
+    "Timestamp": "2023-04-06T13:51:55Z",
+    "Signature": "3701f196f02a2c505f619bb0fc9c701f66dcedebcbcbdbfe5c24cf76b8f74114f58752f0634cd6cbde4a634049c06953ab93425a642b89ef2deb62cac3b7ca8c1dda3579486c7d2242c7ad6aad7a42e2c2939d398660c9eda4872229938584b9d201c3e73ff8d628b119a128c26673dd7855edd16ffbf999d8c7113d24722d946599af26d159ae8940709b8f466518ddcfbccfacd75c278d989eb53f48025da0f4b15685f4d47d40572848530c8171b0fe4390becc35deb94f084a571b96177bcde0de4bbff9baa0071c0026ae86425126a4627673c75ffe154fdbe08407b47120389d4ec33d1b6e6bc9794e94ba120c622fa5f29e674a9562974217486884e2"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5060ea32260c0a45ee88739ede48dd260d8051c1ecaf8ff31c981102044cfdde",
+  "ContentToHash": "v1|gh:kevinrpb,mdon:@kevinrpb@mastodon.social,med:no-account,post:no-account,spout:no-account,ss:no-account,t:kevinrpb|2023-04-06T13:31:23Z"
+}
